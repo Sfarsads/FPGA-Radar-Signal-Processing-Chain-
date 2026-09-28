@@ -1,7 +1,3 @@
-"""Step 2c: CA-CFAR detector (floating point) on the pulse-compression output from 2b.
-
-Run radar_2a.py and radar_2b.py first (this reads radar_stream.npz and compressed_float.npy).
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 
